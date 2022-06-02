@@ -1,4 +1,4 @@
-# tech-tricks
+# Tech-Tricks
 
 Here I'll Share my Tech Ideas and Tricks which are Useful
 
@@ -37,11 +37,25 @@ Here's what he can Do,
 * **Boom!**. After Sometime in Reels or Feeds or Search You'll get only Web dev Content only. If you come tomorrow also same only.
 * Daily you can Learn something Useful with Daily Updates at your Reels and Feeds Scrolling. **Don't go for another Content**
 * After sometime If something different Content comes in your Feeds or in Reels, Just give *not Interested* then you don't need to do anything. Instagram itself fetches what you want from all Over the World to show you Related content.
-* You're Literally Making Instagram's Algorithm to Fetch and Serve you the content you want from all the content creators (you actually don't know or either you Searched for) in the world without any struggles.
+* You're Literally Making Instagram's Algorithm to Fetch and Serve you the content you want from all the content creators ( You actually don't know or either you Searched for or the one's you're Following ) in the world without any struggles.
 
 The Point is its Completely Free. You can Simply Improve your knowledge just by Scrolling and saving it for Later purpose. 
 
+Still not Getting... 
 
+### Point of View - 2
+
+Let's Consider in Present world Sherlock Homles want to be a Techie to Solve Tech Releated Cases.
+
+Like I said in **Point of View - 1**, Sherlock creates a Instagram and Twitter Account.
+
+* He Followed all Tech and Ethical hacking Related Instagram and Twitter Account. 
+* Started to Use those accounts only for seeing Tech posts.
+* Later those accounts itself Identifies your Interest and serves Related content Irrespective of Regions.
+* So without Searching or Struggling, Daily Everything comes to you directly from Content Creators.
+* Additionally in Twitter there are 100 days Challenges, many Developer support etc.,
+
+This is Applicable to all areas like General knowledge, all IT Related Developments, Digital Marketing, Designing, Art etc., You can get all Related content by seeing only those content.
 
 
 
