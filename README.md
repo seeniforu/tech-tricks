@@ -5,10 +5,17 @@ Here I'll Share my Tech Ideas and Tricks which are Useful
 # Facebook and Instagram
 
 Are you the One worried about Facebook and Instagram watching us. 
-Ever felt like showing posts related to Recent search in Google, A Product You Searched in Amazon or Flipkart - Yeah I Felt Same. So You have 2 Choices,
+Ever felt like showing posts related to Recent search in Google, A Product You Searched in Amazon or Flipkart
 
+<p align='center'>
+ <img src = "https://user-images.githubusercontent.com/91478125/171546140-8aabc55f-94e0-43a9-a933-bcc4a3129483.png"></img>
+ </p>
+
+Yeah I Felt Same. So You have 2 Choices,
  1. Switch to Safe Social Media which does not collect and sell your data (OR)
  2. Use above Social Media in a Useful way.
+
+### Algorithm
 
 **Facebook and Instagram's** Algorithm is Written in a way that Your Activities and What type of Posts you Like, Save, comment, send to someone, Even if you watch same post for 2nd time, Everything is Noted Feeded into Algorithm. 
 
@@ -18,7 +25,7 @@ Yes, If you Repeatdly watch a Love or Friendship post, with the help of Hashtag 
 
 Your Feeds Priority is changed according to Your Mood and it **Shows Posts Related to what it collected from your Recent or Long Term Activity to Make you Stay Using those Social Media Without Knowing Time**. 
 
-Lets's Goto How to Make it Useful.
+Lets's Goto the part How can we Make it Useful.
 
 ### Point of View - 1
 
@@ -34,7 +41,10 @@ Here's what he can Do,
 * **Don't get Diverted**. Search only Web dev Content. Like it, Share it, Save it, Make Comments and Follow whatever Web dev accounts you want.
 * So now in your Feeds, You only get Web dev content only. 
 * Then in Instagram search, there will be some similar posts. Make sure to see that only.
-* **Boom!**. After Sometime in Reels or Feeds or Search You'll get only Web dev Content only. If you come tomorrow also same only.
+
+     **Boom!**
+
+* After Sometime in Reels or Feeds or Search You'll get only Web dev Content only. If you come tomorrow also same only.
 * Daily you can Learn something Useful with Daily Updates at your Reels and Feeds Scrolling. **Don't go for another Content**
 * After sometime If something different Content comes in your Feeds or in Reels, Just give *not Interested* then you don't need to do anything. Instagram itself fetches what you want from all Over the World to show you Related content.
 * You're Literally Making Instagram's Algorithm to Fetch and Serve you the content you want from all the content creators ( You actually don't know or either you Searched for or the one's you're Following ) in the world without any struggles.
